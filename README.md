@@ -2,4 +2,7 @@
 test for git
 creating a new branch is quick
 update readme.md file again
-update on master feature1 branch
+<<<<<<< HEAD
+=======
+update the file in feature1 branch
+>>>>>>> feature1
